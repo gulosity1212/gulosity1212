@@ -1,7 +1,7 @@
 - 👋 Hi, I’m gulosity
 - 👀 I’m interested in ISP and game like LOL
 - 🌱 I’m currently learning Image Signal Process
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on chingu.io
 - 📫 979676824@qq.com or gulosity1212@gmail.com
 
 <!---
